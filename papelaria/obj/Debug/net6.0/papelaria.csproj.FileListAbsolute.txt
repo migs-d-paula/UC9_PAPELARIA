@@ -1,0 +1,15 @@
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\papelaria.csproj.AssemblyReference.cache
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\papelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\papelaria.AssemblyInfoInputs.cache
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\papelaria.AssemblyInfo.cs
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\papelaria.csproj.CoreCompileInputs.cache
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\bin\Debug\net6.0\papelaria.exe
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\bin\Debug\net6.0\papelaria.deps.json
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\bin\Debug\net6.0\papelaria.runtimeconfig.json
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\bin\Debug\net6.0\papelaria.dll
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\bin\Debug\net6.0\ref\papelaria.dll
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\bin\Debug\net6.0\papelaria.pdb
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\papelaria.dll
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\ref\papelaria.dll
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\papelaria.pdb
+C:\Users\miguel.pveloso\source\repos\papelaria\papelaria\obj\Debug\net6.0\papelaria.genruntimeconfig.cache
